@@ -5,8 +5,9 @@ This is a two-day introductory course on "Deep Learning", held at the [CSCS-USI 
 
 **Prerequisites:** 
 
-Undergraduate calculus and statistics. Experience 
-in any programming language such as Python is a plus. Participants are encouraged to bring their research projects to be discussed.
+* Calculus and statistics. 
+* Experience in the Python programming language
+* Participants are encouraged to bring their research projects to be discussed.
 
 ### Topics
 
