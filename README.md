@@ -6,19 +6,19 @@ This is a two-day introductory course on "Deep Learning", held at the [CSCS-USI 
 **Prerequisites:** 
 
 * Calculus and statistics. 
-* Experience in the Python programming language
+* Experience in the Python programming language.
 * Participants are encouraged to bring their research projects to be discussed.
 
 ### Topics
 
-#### Day 1, July, 22nd
-* A brief introduction to machine learning
-* Multi-layer perceptron
+#### Day 1, Wednesday, July 22nd, 2020
+* A brief introduction to machine learning.
+* Multi-layer perceptron (incl. optimization procedures, batch normalization, Dropout, etc.). 
 
-#### Day 2, July 23rd
-* Introduction to Tensorflow, applied to supervised machine learing 
-* Recurrent Neural Networks and beyond
-* Reinforcement Learning
+#### Day 2, Thursday, July 23rd 2020
+* Introduction to Tensorflow, applied to supervised machine learing. 
+* Recurrent Neural Networks and beyond.
+* Reinforcement Learning.
 
 
 ### Lecturer
